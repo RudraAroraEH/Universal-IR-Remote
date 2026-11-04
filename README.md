@@ -3,7 +3,7 @@ A DIY ESP32 universal remote with an OLED display and button controls. Features 
 # ESP32 Hybrid Universal IR Remote
 
 **Version:** 1.0
-**Author:** Rudra Arora
+**Author:** Rudra Arora , Vinay Mishra
 **Status:** Stable
 
 ## **Project Overview**
